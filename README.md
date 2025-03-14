@@ -6,7 +6,6 @@ This project is a weather application where users can view live weather informat
 - 🌍 Weather query by city name
 - 🌡️ Displaying data such as current temperature, humidity, wind speed
 - 🎨 User-friendly interface
-- 🌙 Night and day theme support
 
 ## 🛠 Technologies Used
 - **Java** (Backend)
