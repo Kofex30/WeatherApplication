@@ -15,3 +15,8 @@ This project is a weather application where users can view live weather informat
 
 ## 📜 Installation
 You can run the project by following the steps below:
+
+### 1️⃣ **Clone the project**
+```sh
+git clone https://github.com/Kofex30/WeatherApplication.git
+cd WeatherApplication
