@@ -1,2 +1,17 @@
-# WeatherApplication
+# 🌦️ Weather Application
+
 This project is a weather application where users can view live weather information. It provides information such as temperature, humidity, wind speed using **Open-Meteo API**.
+
+## 🚀 Features
+- 🌍 Weather query by city name
+- 🌡️ Displaying data such as current temperature, humidity, wind speed
+- 🎨 User-friendly interface
+- 🌙 Night and day theme support
+
+## 🛠 Technologies Used
+- **Java** (Backend)
+- **Open-Meteo API** (To get weather data)
+- **HTML, CSS (Frontend)
+
+## 📜 Installation
+You can run the project by following the steps below:
